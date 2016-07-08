@@ -1,6 +1,6 @@
 NB. manifest for sockutils
 CAPTION=: 'Routines for web transactions'
-VERSION=: '1.0.0'
+VERSION=: '1.0.1'
 PLATFORMS=: ''
 FILES=: 0 : 0
 pop3email.ijs
@@ -8,7 +8,7 @@ smtpemail.ijs
 textmessages.ijs
 webio.ijs
 )
-RELEASE=: 'j602 j803 j804'
+RELEASE=: 'j602 j803 j804 j805'
 DEPENDS=: 0 : 0
 misc/miscutils
 sockets/socklib
