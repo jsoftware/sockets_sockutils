@@ -8,7 +8,10 @@ smtpemail.ijs
 textmessages.ijs
 webio.ijs
 )
-RELEASE=: 'j602 j803 j804 j805 j806 j807'
+RELEASE=: ''
+
+FOLDER=: 'sockets/sockutils'
+
 DEPENDS=: 0 : 0
 misc/miscutils
 sockets/socklib
