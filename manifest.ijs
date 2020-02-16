@@ -1,14 +1,14 @@
 NB. manifest for sockutils
 CAPTION=: 'Routines for web transactions'
-VERSION=: '1.0.3'
-PLATFORMS=: ''
+VERSION=: '1.0.4'
+PLATFORMS=: 'win'
 FILES=: 0 : 0
 pop3email.ijs
 smtpemail.ijs
 textmessages.ijs
 webio.ijs
 )
-RELEASE=: ''
+RELEASE=: 'j602 j807'
 
 FOLDER=: 'sockets/sockutils'
 
